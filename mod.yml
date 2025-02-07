@@ -1,9 +1,9 @@
 title: METEORS
 originalAuthor: EnerjakV
 game: kh2
-description: Replaces one of Riku's battle voice lines with IFCYipes saying "Meteors in ass"
+description: Replaces one of Rikus battle voice lines with IFCYipes saying Meteors in ass
 assets:
 - name: voice\us\battle\eh0_riku.win32.scd
   method: copy
   source:
-  - name: voice\us\battle\eh0_riku.win32.scd
+  - name: METEORS.scd
